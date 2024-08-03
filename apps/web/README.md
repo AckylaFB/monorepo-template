@@ -19,20 +19,6 @@ This project uses many tools like:
 
 ## Getting Started
 
-### Install
-
-Create the project.
-
-```bash
-npx degit joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate my-app
-```
-
-Access the project directory.
-
-```bash
-cd my-app
-```
-
 Install dependencies.
 
 ```bash
@@ -68,13 +54,3 @@ pnpm run build
 ```bash
 pnpm run test
 ```
-
-View and interact with your tests via UI.
-
-```bash
-pnpm run test:ui
-```
-
-## License
-
-This project is licensed under the MIT License.
